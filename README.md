@@ -1,2 +1,2 @@
 # Cleaning-Boat
-Simulates a Boat to clean Ocean Debris
+Simulates an Autonomous Boat to clean Ocean Debris
